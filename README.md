@@ -31,8 +31,9 @@ pip install -r requirements.txt
 ## Usage 📝
 
 To run the chat bot, execute the following command:
+```bash
 streamlit run chat_bot.py
-
+   ```
 
 Once the bot is running, open your browser and start asking questions!
 
