@@ -48,7 +48,7 @@ Once the bot is running, open your browser and start asking questions!
 
 Here's a glimpse of the Colleague Chat Bot in action:
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## References 📚
 
