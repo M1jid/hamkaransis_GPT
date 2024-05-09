@@ -18,13 +18,15 @@ To get started with the Colleague Chat Bot, follow these simple steps:
    ```
 
 2. Navigate to the project directory:
+```bash
 cd hamkaransis_GPT
+   ```
 
-3. Install dependencies using pip:
+
+4. Install dependencies using pip:
+```bash
 pip install -r requirements.txt
-
-
-
+   ```
 
 ## Usage 📝
 
