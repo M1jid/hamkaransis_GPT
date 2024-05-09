@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 To run the chat bot, execute the following command:
 ```bash
-streamlit run chat_bot.py
+streamlit run PdfChatbot.py
    ```
 
 Once the bot is running, open your browser and start asking questions!
