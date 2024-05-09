@@ -54,9 +54,9 @@ Here's a glimpse of the Colleague Chat Bot in action:
 
 For more information, check out the following resources:
 
-- [LangChain](https://example.com/langchain)
-- [Streamlit](https://example.com/streamlit)
-- [Hugging Face](https://example.com/huggingface)
+- [LangChain](https://www.langchain.com/)
+- [Streamlit](https://streamlit.io/)
+- [Hugging Face](https://huggingface.co/)
 
 ## Developer 👨‍💻
 
