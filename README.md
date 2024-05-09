@@ -13,13 +13,17 @@ This project utilizes advanced natural language processing techniques to provide
 To get started with the Colleague Chat Bot, follow these simple steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/M1jid/hamkaransis_GPT.git
+   ```bash
+   git clone https://github.com/M1jid/hamkaransis_GPT.git
+   ```
 
 2. Navigate to the project directory:
 cd hamkaransis_GPT
 
 3. Install dependencies using pip:
 pip install -r requirements.txt
+
+
 
 
 ## Usage 📝
