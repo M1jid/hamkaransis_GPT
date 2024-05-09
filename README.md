@@ -1,6 +1,7 @@
 # Colleague Chat Bot 🤖
 
-Welcome to the Colleague Chat Bot project! This bot is designed to assist you with questions related to colleagues' systems.
+Welcome to the Colleague Chat Bot project! This bot is designed to assist you with questions related to hesabrayan
+
 
 ![Chat Bot](chat_bot_image.png)
 
